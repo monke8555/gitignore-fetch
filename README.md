@@ -33,8 +33,10 @@ Then run the exe using ```mono gitignore-fetch.exe```.
 
 https://www.mono-project.com/docs/getting-started/mono-basics/
 
+NOTE: You can use .NET Core for Linux like MacOS: https://docs.microsoft.com/en-us/dotnet/core/install/linux?irgwc=1&OCID=AID2000142_aff_7593_1243925&tduid=%28ir__zfolgr2epwkfq3sbkk0sohz3wv2xpzbjtk2vevqc00%29%287593%29%281243925%29%28a1LgFw09t88-jHF9UMXRiQDmpzeU5RUaYg%29%28%29&irclickid=_zfolgr2epwkfq3sbkk0sohz3wv2xpzbjtk2vevqc00#:~:text=Install%20on%20Linux-,.,available%20on%20different%20Linux%20distributions.?ranMID=24542&ranEAID=a1LgFw09t88&ranSiteID=a1LgFw09t88-jHF9UMXRiQDmpzeU5RUaYg&epi=a1LgFw09t88-jHF9UMXRiQDmpzeU5RUaYg
+
 ## Usage
-After running gitignore-fetch.exe, supply the language, ide, or framework. E.G.
+After running gitignore-fetch, supply the language, ide, or framework. E.G.
 
 ```gitignore-fetch
 Android
